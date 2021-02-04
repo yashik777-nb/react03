@@ -1,0 +1,22 @@
+.AllIssues nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  text-align: center;
+}
+
+.AllIssues ul li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.AllIssues ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.AllIssues ul li a:hover,
+.AllIssues ul li a:active {
+  color: blue;
+}
